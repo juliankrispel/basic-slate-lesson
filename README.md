@@ -1,0 +1,1 @@
+This is an egghead lesson example built with create-react-app
